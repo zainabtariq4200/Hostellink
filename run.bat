@@ -1,1 +1,1 @@
-flutter run -d chrome --dart-define=FIREBASE_API_KEY=AIzaSyDAxe-0kBlUZDVKi65NYEZvLot5SK9GLRw --dart-define=FIREBASE_AUTH_DOMAIN=hostellink-app.firebaseapp.com --dart-define=FIREBASE_PROJECT_ID=hostellink-app --dart-define=FIREBASE_STORAGE_BUCKET=hostellink-app.firebasestorage.app --dart-define=FIREBASE_MESSAGING_SENDER_ID=627132099344 --dart-define=FIREBASE_APP_ID=1:627132099344:web:90420a24827e387b5a1395 --dart-define=FIREBASE_MEASUREMENT_ID=G-QQMZKJSP15 --dart-define=SUPER_ADMIN_CODE=HOSTELLINK2026
+
